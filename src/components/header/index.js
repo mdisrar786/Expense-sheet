@@ -10,7 +10,7 @@ const Header = () => {
         </div>
         <div className="header-button">
           <a
-            href="https://github.com/shuvamk"
+            href="https://github.com/mdisrar786"
             target="_blank"
             rel="noopener noreferrer"
           >
